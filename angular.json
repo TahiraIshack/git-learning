@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Uploads"
+    }
+  },
+  "defaultProject": "Uploads",
+  "cli": {
+    "analytics": false
+  }
 }
